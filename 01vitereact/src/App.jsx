@@ -1,12 +1,8 @@
-import './App.css'
-
+import Chai from './chai.jsx'
 function App() {
 
   return (
-      <div>
-        <h1>Chai aur react | shrey</h1>
-      </div>
-      
+      <Chai />
   );
 }
 
